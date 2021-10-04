@@ -10,8 +10,10 @@
 # SKILLS
 -------
 ### Some projects you can find right here in the repositories area, or by clicking on the links...
-*[HTML CSS](https://github.com/Kallarari/JVM_SITE) <br>
+*[HTML and CSS](https://github.com/Kallarari/JVM_SITE) <br>
 *[Design 3D](https://www.artstation.com/kallarari) <br>
-*[Python e MySQL](https://github.com/Kallarari/aplica-o-pyton) <br>
+*[Python and MySQL](https://github.com/Kallarari/aplica-o-pyton) <br>
+
+[My website](https://site-modelo-seven.vercel.app/) <br>
 
 
